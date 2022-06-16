@@ -4,7 +4,8 @@
 后台使用express框架+mongodb数据库,使用request模块爬取网站图片数据  
 首页  
 
-![首页](readme/首页.png)
+![首页](readme/首页.png)  
+
 图片详情页  
 
 ![图片详情页](readme/图片详情.png)  
